@@ -11,7 +11,7 @@ Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I work
 - 🔭 I’m currently studying **Programmer** at Ton Duc Thang University - College
 - ⚙️ Frontend(Main): `.html`, `.css`, `.scss`, `.js`, `.ts`, `.jsx`, `.vue`
 - ⚙️ Backend(Knowledge): `php`, `nodejs`
-- Have a little knowledge about **Design Patterns**
+- ✨ Have a little knowledge about **Design Patterns**
 - 👯 I’m looking to freelance job about **Frontend** using **React** or **Vue**
 - 💬 I'm mostly active within the **Vue.JS**, **Node.JS**, **Frontend Dev** communities
 
@@ -25,7 +25,12 @@ Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I work
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-<br/>
+### 💻 My packages on npm
+
+| **Package name**    | 🚀 **Description** |
+|------------:|-------------------:|
+| [countdown-x][countdown] | To countdown time|
+
 
 ### <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
@@ -38,3 +43,5 @@ Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I work
 [github]: https://github.com/duongductrong
 [site]: https://react-portfolio.duongductrong.vercel.app/
 [linkedin]: https://linkedin.com/in/duongductrong
+
+[countdown]: https://www.npmjs.com/package/countdown-x
