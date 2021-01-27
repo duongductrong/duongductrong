@@ -17,7 +17,7 @@ Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I work
 ### 📬 Get in Touch
 
 - npm: [npm.com/duongductrong][npm]
-- GitHub: [github.com/federico-dondi][github]
+- GitHub: [github.com/duongductrong][github]
 - LinkedIn: [duongductrong][linkedin]
 - Site: [duongductrong][site]
 - E-mail: duongductrong06@gmail.com
