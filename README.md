@@ -12,7 +12,7 @@ Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I work
 - ⚙️ Frontend(Main): `.html`, `.css`, `.scss`, `.js`, `.ts`, `.jsx`, `.vue`
 - ⚙️ Backend(Knowledge): `php`, `nodejs`
 - ✨ Have a little knowledge about **Design Patterns**
-- 👯 I’m looking to freelance job about **Frontend** using **React** or **Vue**
+- 👯 I’m looking for a freelance job about **Frontend** using **React** or **Vue**
 
 ### 📬 Get in Touch
 
