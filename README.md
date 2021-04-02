@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Knowledge-lightgrey)
 ---
 
-Hi, I'm Trọng 😎. Currently, a frontend developer at **Anflash.com**. I working with **JavaScript** Programming Language and ReactJS framework 🤩. In addition, i also knowledge a little about Backend Development to be work Backend Developer ☕️☕️.
+Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend job opportunity. I working with **JavaScript** Programming Language and ReactJS framework 🤩. In addition, i also knowledge a little about Backend Development to be work Backend Developer ☕️☕️.
 
 ### ⚡ Bio
 - 🔭 I’m currently studying **Programmer** at Ton Duc Thang University - College
