@@ -29,6 +29,7 @@ Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend
 | **Package name**    | 🚀 **Description** |
 |------------:|-------------------:|
 | [countdown-x][countdown] | To countdown time|
+| [react-toastx][React Toastx] | Notification|
 
 
 ### <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -44,3 +45,4 @@ Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend
 [linkedin]: https://linkedin.com/in/duongductrong
 
 [countdown]: https://www.npmjs.com/package/countdown-x
+[react-toastx]: https://www.npmjs.com/package/react-toastx
