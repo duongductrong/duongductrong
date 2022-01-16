@@ -29,7 +29,7 @@ Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend
 | **Package name**    | 🚀 **Description** |
 |------------:|-------------------:|
 | [countdown-x][countdown] | To countdown time|
-| [react-toastx][react-toastx] | To countdown time|
+| [react-toastx][react-toastx] | Notification|
 
 
 ### <summary> 😇 <b>My Github Stats</b>: </summary>
