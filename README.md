@@ -7,8 +7,8 @@
 
 Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.js and Laravel framework. Capable resolve the problems, fast approach new technologies. Familiar with agile scrum methodology.
 
-### ⚡ Bio
-- ⚙️ Frontend: `react`, `vue`, `scss/sass`, `tailwindcss`, `ant.design`,
+### ⚡ Skills
+- ⚙️ Frontend: `react`, `vue`, `scss/sass`, `tailwindcss`, `typescript`, `gsap`, `ant.design`,
 - ⚙️ Backend: `php`, `nodejs`
 
 ### 📬 Get in Touch
