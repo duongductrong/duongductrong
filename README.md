@@ -5,14 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Knowledge-lightgrey)
 ---
 
-Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend job opportunity. I working with **JavaScript** Programming Language and ReactJS framework 🤩. In addition, i also knowledge a little about Backend Development to be work Backend Developer ☕️☕️.
+Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.js and Laravel framework. Capable resolve the problems, fast approach new technologies. Familiar with agile scrum methodology.
 
 ### ⚡ Bio
-- 🔭 I’m currently studying **Programmer** at Ton Duc Thang University - College
-- ⚙️ Frontend(Main): `.html`, `.css`, `.scss`, `.js`, `.ts`, `.jsx`, `.vue`
-- ⚙️ Backend(Knowledge): `php`, `nodejs`
-- ✨ Have a little knowledge about **Design Patterns**
-- 👯 I’m looking for a freelance job about **Frontend** using **React** or **Vue**
+- ⚙️ Frontend: `react`, `vue`, `scss/sass`, `tailwindcss`, `ant.design`,
+- ⚙️ Backend: `php`, `nodejs`
 
 ### 📬 Get in Touch
 
@@ -24,12 +21,12 @@ Hi, I'm Trọng 😎,a frontend developer. Currently, I'm looking for a frontend
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-### 💻 My packages on npm
+### 💻 My Packages
 
 | **Package name**    | 🚀 **Description** |
 |------------:|-------------------:|
-| [countdown-x][countdown] | To countdown time|
-| [react-toastx][react-toastx] | Notification|
+| [countdown-x][countdown] | To countdown time |
+| [react-toastx][react-toastx] | The toast library notification component  |
 
 
 ### <summary> 😇 <b>My Github Stats</b>: </summary>
