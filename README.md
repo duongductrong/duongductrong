@@ -21,7 +21,7 @@ Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.j
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-### 💻 My Packages
+### 💻 Packages
 
 | **Package name**    | 🚀 **Description** |
 |------------:|-------------------:|
@@ -29,12 +29,12 @@ Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.j
 | [react-toastx][react-toastx] | The toast library notification component  |
 
 
-### <summary> 😇 <b>My Github Stats</b>: </summary>
+### <summary> 😇 <b>Github Stats</b>: </summary>
 <br>
-<p align = "center" style="display:flex">
-  <img style="flex: 1" src = "https://github-readme-stats.vercel.app/api?username=duongductrong&show_icons=true&theme=radical&line_height=27">
-  <img style="margin-left: 10px; flex: 1; height: 100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duongductrong&hide=css,html&theme=radical&layout=compact">
-</p>
+<img style="margin-left: 10px; flex: 1; height: 100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duongductrong&hide=css,html&theme=radical&layout=compact">
+<img style="flex: 1" src = "https://github-readme-stats.vercel.app/api?username=duongductrong&show_icons=true&theme=radical&line_height=27">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=duongductrong&theme=radical)
 
 [npm]: https://www.npmjs.com/~duongductrong
 [github]: https://github.com/duongductrong
