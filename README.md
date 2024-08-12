@@ -5,11 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Knowledge-lightgrey)
 ---
 
-Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.js and Laravel framework. Capable resolve the problems, fast approach new technologies. Familiar with agile scrum methodology.
+Frontend Developer more than 4 years of experiences. Proficient with React.js, Vue.js and Laravel framework. Capable resolve the problems, fast approach new technologies. Familiar with agile scrum methodology.
 
 ### ⚡ Skills
 - ⚙️ Frontend: `react`, `vue`, `scss/sass`, `tailwindcss`, `typescript`, `gsap`, `ant.design`,
-- ⚙️ Backend: `php`, `nodejs`
+- ⚙️ Backend: `node/nestjs`, `php/laravel`
 
 ### 📬 Get in Touch
 
@@ -23,10 +23,7 @@ Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.j
 
 ### 💻 Packages
 
-| **Package name**    | 🚀 **Description** |
-|------------:|-------------------:|
-| [countdown-x][countdown] | To countdown time |
-| [react-toastx][react-toastx] | The toast library notification component  |
+Visit my package here: [npm.com/duongductrong][npm]
 
 
 ### <summary> 😇 <b>Github Stats</b>: </summary>
@@ -40,6 +37,3 @@ Frontend Developer with 2+ years of experiences. Proficient with React.js, Vue.j
 [github]: https://github.com/duongductrong
 [site]: https://trongduong.vercel.app/
 [linkedin]: https://linkedin.com/in/duongductrong
-
-[countdown]: https://www.npmjs.com/package/countdown-x
-[react-toastx]: https://www.npmjs.com/package/react-toastx
