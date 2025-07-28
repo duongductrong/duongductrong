@@ -23,5 +23,5 @@ Below are some of the tools and libraries I've developed to simplify workflows a
 
 [npm]: https://www.npmjs.com/~duongductrong
 [github]: https://github.com/duongductrong
-[site]: https://danielll.dev
+[site]: https://trongduong.com
 [linkedin]: https://linkedin.com/in/duongductrong
