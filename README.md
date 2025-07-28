@@ -11,7 +11,7 @@
 - npm: [npm.com/duongductrong][npm]
 - GitHub: [github.com/duongductrong][github]
 - LinkedIn: [duongductrong][linkedin]
-- Site: [danielll.dev][site]
+- Site: [trongduong.com][site]
 - E-mail: duongductrong06@gmail.com
 
 ### :zap: My Projects
