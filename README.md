@@ -4,7 +4,7 @@
 
 ## 👋 Trong Duong Duc ———@duongductrong
 
-⚡ Frontend Developer more than 4 years of experiences, passionate about open-source and eager to try new things.
+⚡ Software Engineer more than 4 years of experiences, passionate about open-source and eager to try new things.
 
 ### 📬 Get in Touch
 
