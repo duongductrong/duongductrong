@@ -1,10 +1,10 @@
+## 👋 Trong Duong Duc ———@duongductrong
+
+⚡ A Software Engineer, passionate about open-source and eager to try new things.
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/duongductrong"/>
 </a>
-
-## 👋 Trong Duong Duc ———@duongductrong
-
-⚡ Software Engineer more than 4 years of experiences, passionate about open-source and eager to try new things.
 
 ### 📬 Get in Touch
 
