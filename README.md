@@ -1,14 +1,6 @@
 ## 👋 Trong Duong Duc ———@duongductrong
 
-### 📬 Get in Touch
-
-- npm: [npm.com/duongductrong][npm]
-- GitHub: [github.com/duongductrong][github]
-- LinkedIn: [duongductrong][linkedin]
-- Site: [trongduong.com][site]
-- E-mail: duongductrong06@gmail.com
-
-### :zap: My Projects
+### :zap: Open Sources
 Below are some of the tools and libraries I've developed to simplify workflows and improve efficiency across various use cases:
   - [`hookform-field`](https://github.com/duongductrong/hookform-field) Effortlessly manage multiple input fields in one place with a highly reusable solution
   - [`chrome-extension-boilerplate`](https://github.com/duongductrong/chrome-extension-boilerplate) A streamlined boilerplate for creating Chrome extensions efficiently
