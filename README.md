@@ -12,3 +12,4 @@ Trong is a software engineer from Vietnam.
 - Thread: https://www.threads.com/@_duongductrong
 - NPM: https://www.npmjs.com/~duongductrong
 - Website: https://trongduong.com
+- Leetcode: https://leetcode.com/u/duongductrong/
